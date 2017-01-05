@@ -64,6 +64,7 @@
     "hjs": "0.0.6",
     "immutable": "^3.7.5",
     "jquery": "^2.2.0",
+    "lodash": "^4.17.4",
     "mocha": "^2.3.4",
     "node-sass": "^3.4.2",
     "raw-loader": "^0.5.1",
@@ -75,7 +76,7 @@
     "sass-loader": "^3.1.1",
     "serve-favicon": "^2.3.0",
     "style-loader": "^0.13.0",
-    "three": "^0.83.0",
+    "three-js": "^79.0.0",
     "webpack": "^1.12.11"
   }
 }
