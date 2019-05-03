@@ -3,7 +3,7 @@ import reduce from 'lodash/reduce';
 import forEach from 'lodash/forEach';
 
 class KeyboardResponder {
-    constructor(opts) {
+    constructor() {
         this._eventListeners = {
             onKeyDown: {},
             onKeyPress: {},

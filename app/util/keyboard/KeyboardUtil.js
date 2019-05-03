@@ -1,4 +1,3 @@
-import { keyCodes } from 'app/constants';
 
 const KeyboardUtil = {
 

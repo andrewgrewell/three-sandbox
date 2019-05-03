@@ -1,10 +1,9 @@
 import React from 'react';
 
-import styles from './BasicThree_styles.scss';
-import ThreeManager from 'app/three';
-import { mouseToThreePosition } from 'app/three';
-import { keyCodes } from 'app/constants';
-import { KeyboardResponder } from 'app/util';
+import './BasicThree_styles.scss';
+import ThreeManager from '../three';
+import { keyCodes } from '../constants';
+import { KeyboardResponder } from '../util';
 
 const BasicThree = React.createClass({
 

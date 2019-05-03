@@ -1,8 +1,8 @@
 import React from 'react';
 import { Route, IndexRoute } from 'react-router';
 
-import Application from 'app/routes/Application.jsx';
-import BasicThree from 'app/routes/BasicThree';
+import Application from './Application.jsx';
+import BasicThree from './BasicThree';
 
 const AppRoutes = (
     <Route path="/" component={Application}>
